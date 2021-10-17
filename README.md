@@ -6,8 +6,8 @@ Hey Code Guru! Yes, You! We want You to build a cool multiplayer version of the 
 
 Rules are very simple:
 
-Needs to have front-end component (pure HTML / CSS, React, Angular, framework of your choice - you pick), and a server component (must be PHP + Nginx based). 
-Needs to allow for single player OR multi-player. Feel free to go the extra mile and do both! 
+Needs to have front-end component (pure HTML / CSS, React, Angular, framework of your choice - you pick), and a server component (must be PHP + Nginx based).
+Needs to allow for single player OR multi-player. Feel free to go the extra mile and do both!
 Fully working, with no obvious bugs!
 No copy pasting from stack overflow or random GitHub (ha!)
 That's it! Beyond that, anything goes!
@@ -15,14 +15,14 @@ That's it! Beyond that, anything goes!
 But wait, there is more! Want more chances at winning a prize and/or interview beyond the basic challenge rules? Each of the following will give you one or more extra chances:
 
 Make it secure and explain why it cannot be hacked! (+ 1 chance)
-Make an interesting twist on the classic game's rules! 
+Make an interesting twist on the classic game's rules!
 Break the third wall, add the Y-s, expand it into the 3rd dimension?
 Add Grand Master mode where one Master Player can play against 10 other sessions?
 Be creative! Cool working concepts will earn up to + 5 chances!
 Add unit and functional tests (+ 2 chances)
 Wow us with a creative solution or super-clean code! (+ 1 chance)
 Document properly! (+ 1 chance)
-Provide a deployment strategy, docker files, make files! (up to + 3 chances)
+Provide a deployment strategy, docker files, make files! (up to + 3 chances)  
 But most importantly, have a blast!
 
 Wait, are you saying this is too boring? Too complicated? TOO LONG?
@@ -40,7 +40,7 @@ Return Null if the number cannot be split into all primes (Ex: f(1234) = NULL
 
 How we will be evaluating your awesomeness:
 
- 
+
 
 Chance Points
 
