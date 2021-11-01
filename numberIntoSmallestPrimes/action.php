@@ -26,3 +26,8 @@ function primeFactors($numberToDecompose) {
     return $factors;
 }
 ?>
+
+//calculate PHP using tally marks (unary)
+/*function is_prime_via_preg_expanded($number) {
+    return !preg_match('/^1?$|^(11+?)\1+$/x', str_repeat('1', $number));
+}*/
