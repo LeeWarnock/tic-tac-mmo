@@ -4,6 +4,34 @@ The Challenge
 
 Hey Code Guru! Yes, You! We want You to build a cool multiplayer version of the Tic-Tac-Toe game (https://en.wikipedia.org/wiki/Tic-tac-toe), and have a chance at winning a cool prize and/or an interview with one of our technical teams!
 
+## Getting Started
+
+- Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
+- Clone your fork down to your local machine
+
+```markdown
+git clone <url> (given in clone or download button)
+```
+
+- Create a branch
+
+```markdown
+git checkout -b branch-name
+```
+
+- Make your changes (Choose from any task below)
+- Commit and Push
+
+```markdown
+git add .
+git commit -m 'commit message'
+git push origin branch-name
+```
+
+- Create a New Pull Request from your forked repository (Click the New Pull Request button located at the top of your repo)
+- Wait for your PR review and merge approval!
+- **Star this repository** for higher chance of merge approval!
+
 Rules are very simple:
 
 Needs to have front-end component (pure HTML / CSS, React, Angular, framework of your choice - you pick), and a server component (must be PHP + Nginx based).
@@ -22,25 +50,22 @@ Be creative! Cool working concepts will earn up to + 5 chances!
 Add unit and functional tests (+ 2 chances)
 Wow us with a creative solution or super-clean code! (+ 1 chance)
 Document properly! (+ 1 chance)
-Provide a deployment strategy, docker files, make files! (up to + 3 chances)  
+Provide a deployment strategy, docker files, make files! (up to + 3 chances)
 But most importantly, have a blast!
 
 Wait, are you saying this is too boring? Too complicated? TOO LONG?
 
 Fine... Have then one complementary chance at winning by simply providing us with an efficient function to split any integer number into smallest primes!
 
-Ex:  f(2371113) = 2,3, 7, 11, 13
+Ex: f(2371113) = 2,3, 7, 11, 13
 
 Return Null if the number cannot be split into all primes (Ex: f(1234) = NULL
 
- But be careful - at the risk of having your contribution put on the Wall of Shame - our advanced copy paste finding algorithm would detect immediately if you simply Googled the solution!!!
+But be careful - at the risk of having your contribution put on the Wall of Shame - our advanced copy paste finding algorithm would detect immediately if you simply Googled the solution!!!
 
- What are you waiting for, oh Code Guru? Load up your editor, expand the console, go go go!!!
-
+What are you waiting for, oh Code Guru? Load up your editor, expand the console, go go go!!!
 
 How we will be evaluating your awesomeness:
-
-
 
 Chance Points
 
