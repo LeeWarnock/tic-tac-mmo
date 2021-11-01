@@ -4,21 +4,33 @@ The Challenge
 
 Hey Code Guru! Yes, You! We want You to build a cool multiplayer version of the Tic-Tac-Toe game (https://en.wikipedia.org/wiki/Tic-tac-toe), and have a chance at winning a cool prize and/or an interview with one of our technical teams!
 
-# Getting Started
+## Getting Started
 
-Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
-Clone your fork down to your local machine
+- Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
+- Clone your fork down to your local machine
+
+```markdown
 git clone <url> (given in clone or download button)
-Create a branch
+```
+
+- Create a branch
+
+```markdown
 git checkout -b branch-name
-Make your changes (Choose from any task below)
-Commit and Push
-git add . # Add all files
-git commit -m 'commit message' # Commit with message
-git push origin branch-name # Push to remote
-Create a New Pull Request from your forked repository (Click the New Pull Request button located at the top of your repo)
-Wait for your PR review and merge approval!
-Star this repository for higher chance of merge approval
+```
+
+- Make your changes (Choose from any task below)
+- Commit and Push
+
+```markdown
+git add .
+git commit -m 'commit message'
+git push origin branch-name
+```
+
+- Create a New Pull Request from your forked repository (Click the New Pull Request button located at the top of your repo)
+- Wait for your PR review and merge approval!
+- **Star this repository** for higher chance of merge approval!
 
 Rules are very simple:
 
